@@ -1,3 +1,1 @@
-<?php
-echo 'Hacked by SooLFaa';
-?>
+fgfgfg
